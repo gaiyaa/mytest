@@ -1,13 +1,22 @@
 {
   "tokens": [
     {
-      "chainId": 1329,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1328,
+      "address": "0x87C52aA3f179F886624A4E32335c0Db826e3a2f1",
       "decimals": 18,
-      "name": "SEI",
-      "symbol": "SEI",
+      "name": "USDT",
+      "symbol": "USDT",
       "tags": ["Top"],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+      "about": "A sei stablecoin on the atlantic-2 (public testnet)"
     },
+    {
+      "chainId": 1328,
+      "address": "0xd0f06f6b4bcF3ebF06F61D8762C1d130DCF8Ae1E",
+      "decimals": 18,
+      "name": "AAVE",
+      "symbol": "AAVE",
+      "tags": ["Top"],
+      "about": "An aave coin on the atlantic-2 (public testnet)"
+    }
   ]
 }

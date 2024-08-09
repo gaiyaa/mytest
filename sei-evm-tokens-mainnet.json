@@ -7,7 +7,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "tags": ["Top"],
-      "about": "A sei stablecoin on the atlantic-2 (public testnet)"
+      "detail": "A sei stablecoin on the atlantic-2 (public testnet)"
     },
     {
       "chainId": 1328,
@@ -16,7 +16,7 @@
       "name": "AAVE",
       "symbol": "AAVE",
       "tags": ["Top"],
-      "about": "An aave coin on the atlantic-2 (public testnet)"
+      "detail": "An aave coin on the atlantic-2 (public testnet)"
     },
     {
       "chainId": 1328,
@@ -25,7 +25,7 @@
       "name": "1INCH",
       "symbol": "1INCH",
       "tags": ["Top"],
-      "about": "A 1inch coin on the atlantic-2 (public testnet)"
+      "detail": "A 1inch coin on the atlantic-2 (public testnet)"
     }
   ]
 }

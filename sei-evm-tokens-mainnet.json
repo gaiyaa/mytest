@@ -3,7 +3,7 @@
     {
       "chainId": 1328,
       "address": "0x87C52aA3f179F886624A4E32335c0Db826e3a2f1",
-      "decimals": 18,
+      "decimals": 6,
       "name": "USDT",
       "symbol": "USDT",
       "tags": ["Top"],
